@@ -1,0 +1,1 @@
+Extension of wodby/drupal-php:5.6 with drush removed, and wp-cli added.
